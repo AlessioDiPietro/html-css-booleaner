@@ -1,0 +1,10 @@
+header {
+    height: 170px;
+    weight:100%;
+    background-image:url("../img/pattern.png");
+    background-repeat: repeat;
+    background-color: rgb(5, 168, 223);
+}    
+.pattern {
+    height: 85%;
+}
