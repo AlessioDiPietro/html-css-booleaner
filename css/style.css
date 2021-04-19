@@ -33,15 +33,15 @@ body {
 }
 /* fine header */
 
-/* inizio articolo intro */
+/* inizio articolo intro-outro */
 .articolo-intro-outro {
-margin-top: 12px;
-margin-bottom: 12px;
+margin-top: 15px;
+margin-bottom: 15px;
 }
 .importante {
     background-color: rgba(240, 240, 9, 0.5);
 }
-/* fine articolo intro */
+/* fine articolo intro-outro */
 
 /* inizio tabella */
 .tabella {
@@ -54,7 +54,27 @@ margin-bottom: 12px;
     color: white;
 }
 
-.td-lightblue{
+.td-lightblue {
     background-color: turquoise;
 }
 /* fine tabella  */
+
+/* inizio articoli consigliati */
+
+.articoli-esterni-1 {
+    background-image: url(../img/monitor.jpg);
+    height: 180px;
+    width: 180px;
+    color: white;
+    margin-top: 15px;
+
+}
+.articoli-esterni-2{
+    background-image: url("../img/graph.jpg");
+    height: 180px;
+    width: 180px;
+    color: white;
+    margin-top: 15px;
+}
+
+/* fine articoli consigliati */
