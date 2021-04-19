@@ -1,0 +1,86 @@
+body {
+    font-size: 15px;
+    
+}
+/* inizio header */
+.pattern {
+    height: 170px;
+    width:100%;
+    background-image:url("../img/pattern.png");
+    background-repeat: repeat;
+    background-color: rgb(5, 168, 223);
+}    
+
+.titolo {
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+.logo {
+    height: 50%;
+    margin-top: 70px;
+}
+
+.info {
+    color: grey;
+}
+
+.link {
+    color: rgb(47, 47, 207);
+}
+
+.data {
+    font-size: 10px;
+    margin-bottom: 20px%;
+}
+/* fine header */
+
+/* inizio articolo intro-outro */
+.articolo-intro-outro {
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+.importante {
+    background-color: rgba(240, 240, 9, 0.5);
+}
+/* fine articolo intro-outro */
+
+/* inizio tabella */
+.tabella {
+    text-align: left;
+    width: 100%;
+}
+
+.tabella-head {
+    background-color: blue;
+    color: white;
+}
+
+td {
+    width: 70px;
+}
+
+.td-lightblue {
+    background-color: turquoise;
+}
+/* fine tabella  */
+
+/* inizio articoli consigliati */
+.articoli-esterni-1 {
+    background-image: url(../img/monitor.jpg);
+    height: 180px;
+    width: 180px;
+    color: white;
+    margin-top: 15px;
+
+}
+.articoli-esterni-2{
+    background-image: url("../img/graph.jpg");
+    height: 180px;
+    width: 180px;
+    color: white;
+    margin-top: 15px;
+}
+
+/* fine articoli consigliati */
