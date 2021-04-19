@@ -17,7 +17,8 @@ body {
 }
 
 .logo {
-    height: 85%;
+    height: 50%;
+    margin-top: 70px;
 }
 
 .info {
@@ -27,6 +28,7 @@ body {
 .link {
     color: rgb(47, 47, 207);
 }
+
 .data {
     font-size: 10px;
     margin-bottom: 20px%;
@@ -38,6 +40,7 @@ body {
 margin-top: 15px;
 margin-bottom: 15px;
 }
+
 .importante {
     background-color: rgba(240, 240, 9, 0.5);
 }
@@ -57,13 +60,13 @@ margin-bottom: 15px;
 td {
     width: 70px;
 }
+
 .td-lightblue {
     background-color: turquoise;
 }
 /* fine tabella  */
 
 /* inizio articoli consigliati */
-
 .articoli-esterni-1 {
     background-image: url(../img/monitor.jpg);
     height: 180px;
