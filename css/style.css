@@ -1,10 +1,12 @@
 body {
     font-size: 15px;
+    margin:0px;
+    box-sizing: border-box;
 }
 
 .pattern {
     height: 170px;
-    weight:100%;
+    width:100%;
     background-image:url("../img/pattern.png");
     background-repeat: repeat;
     background-color: rgb(5, 168, 223);
@@ -36,4 +38,17 @@ margin-bottom: 12px;
 }
 .importante {
     background-color: rgba(240, 240, 9, 0.5);
+}
+.tabella {
+    text-align: left;
+    width: 100%;
+}
+
+.tabella-head {
+    background-color: blue;
+    color: white;
+}
+
+.td-lightblue{
+    background-color: turquoise;
 }
