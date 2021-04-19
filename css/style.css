@@ -1,7 +1,6 @@
 body {
     font-size: 15px;
-    margin:0px;
-    box-sizing: border-box;
+    
 }
 /* inizio header */
 .pattern {
@@ -30,6 +29,7 @@ body {
 }
 .data {
     font-size: 10px;
+    margin-bottom: 20px%;
 }
 /* fine header */
 
@@ -54,6 +54,9 @@ margin-bottom: 15px;
     color: white;
 }
 
+td {
+    width: 70px;
+}
 .td-lightblue {
     background-color: turquoise;
 }
